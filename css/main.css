@@ -1,0 +1,28 @@
+.profile-photo {
+  height: 300px;
+  border-radius: 50%;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.project {
+  background-color: lightgrey;
+}
+
+.icon {
+  width: 50px;
+}
+
+.linkendin {
+  width: 50px;
+}
+
+.dt {
+  float: left;
+}
+
+.about {
+  background-image: url('../images/pattern.png');
+}
