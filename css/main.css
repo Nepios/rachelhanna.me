@@ -26,3 +26,11 @@
 .about {
   background-image: url('../images/pattern.png');
 }
+.left {
+  float: left;
+  width: 45%;
+}
+.right {
+  float: right;
+  width: 45%;
+}
