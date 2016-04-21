@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('#fullpage').fullpage({
       menu: '#menu',
-      anchors:['firstPage', 'secondPage', 'thirdPage'],
+      anchors:['About', 'Projects', 'Contact'],
       slidesNavigation: true
     });
 });
