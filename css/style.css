@@ -1987,7 +1987,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
 }
 .navbar-toggle:hover:before,
 .navbar-toggle:focus:before {
-  color: #18bc9c;
+    color: #863894;
 }
 .navbar-toggle .icon-bar {
   display: none;
@@ -2268,7 +2268,7 @@ select[multiple].navbar-form .btn {
 }
 .navbar-default .navbar-toggle:hover:before,
 .navbar-default .navbar-toggle:focus:before {
-  color: #1abc9c;
+  color: #863894;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
@@ -2312,7 +2312,7 @@ select[multiple].navbar-form .btn {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   background-color: transparent;
-  color: #1abc9c;
+  color: #863894;
 }
 .navbar-default .navbar-nav > .open > a .caret,
 .navbar-default .navbar-nav > .open > a:hover .caret,
@@ -2326,13 +2326,13 @@ select[multiple].navbar-form .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #1abc9c;
+    color: #863894;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #1abc9c;
+    color: #863894;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
@@ -2382,7 +2382,7 @@ select[multiple].navbar-form .btn {
 }
 .navbar-default .navbar-text a:hover,
 .navbar-default .navbar-text a:focus {
-  color: #1abc9c;
+    color: #863894;
 }
 .navbar-inverse {
   background-color: #34495e;
@@ -2485,7 +2485,7 @@ select[multiple].navbar-form .btn {
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #1abc9c;
+     color: #863894;
     background-color: transparent;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
@@ -2590,7 +2590,7 @@ fieldset[disabled] .navbar-inverse .navbar-form .btn.active {
 }
 .navbar-inverse .navbar-text a:hover,
 .navbar-inverse .navbar-text a:focus {
-  color: #1abc9c;
+    color: #863894;
 }
 .navbar-inverse .navbar-btn {
   color: #ffffff;
