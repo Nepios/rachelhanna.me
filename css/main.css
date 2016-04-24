@@ -1,0 +1,49 @@
+body {
+  background-color: lightgrey;
+  font-family: 'Montserrat', sans-serif;
+}
+.profile-photo {
+  height: 300px;
+  border-radius: 50%;
+}
+
+.purple{
+  background-color: rgb(150, 170, 208);
+}
+
+.project {
+  background-color: lightgrey;
+}
+
+.icon {
+  width: 50px;
+}
+
+.linkendin {
+  width: 50px;
+}
+
+.dt {
+  float: left;
+}
+
+.about {
+  background-image: url('../images/pattern.png');
+}
+.left {
+  float: left;
+  width: 45%;
+  padding-top: 5%;
+}
+.right {
+  float: right;
+  width: 45%;
+  padding-top: 5%;
+}
+
+p {
+  font-size: 1.3em;
+}
+.blue {
+  background-color: rgb(168, 194, 222);
+}
